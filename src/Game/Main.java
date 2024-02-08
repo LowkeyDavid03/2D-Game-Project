@@ -19,9 +19,6 @@ public class Main extends Application {
 
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	 * Description: The Main class which sets up the World/Map
 	 */
 

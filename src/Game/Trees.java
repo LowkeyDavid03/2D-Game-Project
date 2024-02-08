@@ -10,9 +10,6 @@ public class Trees extends StackPane {
 	
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	 * Description: The Trees sprite design 
 	 */
 

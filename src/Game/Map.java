@@ -8,9 +8,6 @@ public class Map extends Rectangle {
 
 	/**
 	 * Name:        David Alvarado
-	 * CIN:         401439516
-	 * Course:      CS 2012
-	 * Section:     31315
 	 * Description: The Tile class to use the grass sprite tile for map
 	 */
 	
