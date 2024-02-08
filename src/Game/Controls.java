@@ -1,4 +1,4 @@
-package cs2012Final;
+package Game;
 
 import java.util.ArrayList;
 import java.util.Arrays;

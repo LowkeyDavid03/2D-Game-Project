@@ -1,4 +1,4 @@
-package cs2012Final;
+package Game;
 
 import javafx.scene.image.Image;
 import javafx.scene.paint.ImagePattern;

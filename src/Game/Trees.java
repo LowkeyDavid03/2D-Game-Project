@@ -1,10 +1,10 @@
-package cs2012Final;
+package Game;
+
+import static Game.Main.TILE_SIZE;
 
 import javafx.scene.image.Image;
 import javafx.scene.image.ImageView;
 import javafx.scene.layout.StackPane;
-
-import static cs2012Final.Main.TILE_SIZE;
 
 public class Trees extends StackPane {
 	
